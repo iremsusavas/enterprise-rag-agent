@@ -109,8 +109,3 @@ celery -A app.ingestion.worker.celery_app worker -l info
 streamlit run app/ui/streamlit_app.py
 ```
 
-Made with ❤️ by Iremsu Savas
-
----
-
-Just one thing to mention is remove .env and all the api key usages before uploading to pipedrive, also use gitignore

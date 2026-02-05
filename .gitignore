@@ -1,0 +1,16 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+dist/
+build/
+*.egg-info/
+*.log
+*.sqlite3
+*.db
+results.csv
+feedback_results.csv
+evaluation/feedback.jsonl

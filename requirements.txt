@@ -1,0 +1,14 @@
+fastapi[standard]
+uvicorn[standard]
+celery
+redis
+streamlit
+langchain
+langgraph
+langchain-openai
+langchain-community
+weaviate-client>=3.26.7,<4.0.0
+pypdf
+unstructured
+datasets
+ragas
